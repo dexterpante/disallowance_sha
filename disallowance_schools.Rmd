@@ -1,0 +1,58 @@
+---
+title: "Disallowance"
+author: "Dexter N. Pante"
+date: "2023-08-10"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = TRUE)
+```
+
+```{r}
+library(tidyverse)
+```
+
+##Data Cleaning
+
+```{r}
+
+hp <- read_csv("List of Official Hardship Posts FY 2021_2022.csv") %>% select(2:7, 9:11) %>% select(-7)
+
+recipients2021 <- read_csv("FY 2021 SHA Actual Recipients as of 7.04.23.csv") %>% select(1:7, 11)
+recipients2020 <- read_csv("FY 2020 Actual SHA Recipients 7.04.23.csv") %>% select(1:7, 11) 
+vars <- c("Region", "Division", "District", "School_ID", "School_Name", "Teacher", "Position", "Category")
+colnames(recipients2020) <- vars 
+colnames(recipients2021) <- vars
+
+hp_recipients2020 <- recipients2020 %>% mutate(Category=tolower(Category), School_ID=as.integer(School_ID)) %>% filter(grepl ("hardship", Category))
+hp_recipients2021 <- recipients2021 %>% mutate(Category=tolower(Category), School_ID=as.integer(School_ID)) %>% filter(grepl ("hardship", Category))
+
+r2020 <- hp_recipients2020 %>% select(School_ID, Category) %>% distinct(School_ID) 
+r2021 <- hp_recipients2021 %>% select(School_ID, Category) %>% distinct(School_ID)
+
+```
+
+## Data Merging
+```{r}
+#2020
+nonhp_recipients2020 <- anti_join(r2020, hp, by="School_ID")
+hp_nonrecipients2020 <- anti_join(hp, r2020, by="School_ID")
+
+#2021
+nonhp_recipients2021 <- anti_join(r2021, hp, by="School_ID")
+hp_nonrecipients2021 <- anti_join(hp, r2021, by="School_ID")
+```
+
+
+```{r}
+master <- read.csv("sha_masterdb.csv") %>% select(3:7,10:13,30)
+r2020 <- inner_join(master, r2020, by="School_ID") %>% select(Region, Division, School_ID, School_Name, IndexScore) %>% arrange()
+r2021 <- inner_join(master, r2021, by="School_ID") %>% select(Region, Division, School_ID, School_Name, IndexScore) %>% arrange()
+
+```
+```{r}
+disallowance <- r2021 %>% filter(IndexScore < .37)
+write_csv(disallowance, "disallowance.csv")
+```
+

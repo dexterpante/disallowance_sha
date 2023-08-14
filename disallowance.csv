@@ -1,0 +1,557 @@
+Region,Division,School_ID,School_Name,IndexScore
+Region I,Dagupan City,102173,T. Ayson-Rosario ES,0.06
+Region I,Dagupan City,102174,Calmay ES,0.06
+Region I,Dagupan City,102175,Carael ES,0.06
+Region I,Dagupan City,102176,Lomboy ES,0.1
+Region I,Dagupan City,102179,Salapingao ES,0.11
+Region I,Dagupan City,102180,Suit  Elementary school,0.08
+Region II,Nueva Vizcaya,103980,Ambaguio CS,0.15
+Region II,Nueva Vizcaya,103987,Cablahan Elementary School,0.25
+Region II,Nueva Vizcaya,103988,DACLIG ELEMENTARY SCHOOL,0.14
+Region II,Nueva Vizcaya,103992,Laylaya PS,0.17
+Region II,Nueva Vizcaya,103995,Napo Elementary School,0.31
+Region II,Nueva Vizcaya,103996,Pacdal ES,0.31
+Region II,Nueva Vizcaya,103998,Salingsingan ES,0.19
+Region II,Nueva Vizcaya,104024,Langka PS,0.13
+Region II,Nueva Vizcaya,104025,Lurad ES,0.13
+Region II,Nueva Vizcaya,104030,Pinya ES,0.16
+Region II,Nueva Vizcaya,104040,Bulala Elementary School,0.11
+Region II,Nueva Vizcaya,104041,Casecnan PS,0.24
+Region II,Nueva Vizcaya,104043,Giayan ES,0.2
+Region II,Nueva Vizcaya,104049,Mantatta PS,0.12
+Region II,Nueva Vizcaya,104051,Nagakay ES,0.16
+Region II,Nueva Vizcaya,104052,New Gumiad ES,0.2
+Region II,Nueva Vizcaya,104055,Yabbi ES,0.23
+Region II,Nueva Vizcaya,104056,Abaca ES,0.31
+Region II,Nueva Vizcaya,104057,Banila ES,0.13
+Region II,Nueva Vizcaya,104059,Canabay ES,0.12
+Region II,Nueva Vizcaya,104060,Carolotan ES,0.17
+Region II,Nueva Vizcaya,104061,Castro ES,0.32
+Region II,Nueva Vizcaya,104063,Ecameging ES,0.22
+Region II,Nueva Vizcaya,104065,Ganao Elementary School,0.26
+Region II,Nueva Vizcaya,104067,Kinabuan ES,0.17
+Region II,Nueva Vizcaya,104071,Sanguit ES,0.19
+Region II,Nueva Vizcaya,104072,Talbec ES,0.28
+Region II,Nueva Vizcaya,104076,Bilet ES,0.15
+Region II,Nueva Vizcaya,104078,Biyoy ES,0.19
+Region II,Nueva Vizcaya,104079,Bua Elementary School,0.22
+Region II,Nueva Vizcaya,104080,Camamasi PS,0.2
+Region II,Nueva Vizcaya,104082,Catarawan ES,0.2
+Region II,Nueva Vizcaya,104084,Didipio ES,0.17
+Region II,Nueva Vizcaya,104085,Dine ES,0.17
+Region II,Nueva Vizcaya,104086,Domang ES,0.11
+Region II,Nueva Vizcaya,104087,Kakiduguen Elementary School,0.34
+Region II,Nueva Vizcaya,104093,Makiboy ES,0.16
+Region II,Nueva Vizcaya,104095,Muta ES,0.2
+Region II,Nueva Vizcaya,104097,Pao Elementary School,0.15
+Region II,Nueva Vizcaya,104098,Papalungan ES,0.15
+Region II,Nueva Vizcaya,104100,Paquet ES,0.18
+Region II,Nueva Vizcaya,104101,Upper Parai PS,0.11
+Region II,Nueva Vizcaya,104103,Siguem ES,0.17
+Region II,Nueva Vizcaya,104105,Tukod PS,0.19
+Region II,Nueva Vizcaya,104110,Ansipsip PS,0.19
+Region II,Nueva Vizcaya,104111,Babadi Elementary School,0.19
+Region II,Nueva Vizcaya,104113,Banao ES,0.31
+Region II,Nueva Vizcaya,104114,Ban-et PS,0.23
+Region II,Nueva Vizcaya,104117,Bulo-Galsa PS,0.24
+Region II,Nueva Vizcaya,104121,Caritas Village Elementary school,0.27
+Region II,Nueva Vizcaya,104122,Dayap PS,0.19
+Region II,Nueva Vizcaya,104123,Dempeg Elementary school,0.29
+Region II,Nueva Vizcaya,104124,Kayapa CS,0.19
+Region II,Nueva Vizcaya,104125,Kayapa Proper ES,0.25
+Region II,Nueva Vizcaya,104126,Kayapa Proper ES Annex,0.18
+Region II,Nueva Vizcaya,104127,Labeng PS,0.27
+Region II,Nueva Vizcaya,104128,Latbang ES,0.3
+Region II,Nueva Vizcaya,104131,Macdu ES,0.17
+Region II,Nueva Vizcaya,104134,Nansiakan Elementary school,0.2
+Region II,Nueva Vizcaya,104138,Pangawan ES,0.14
+Region II,Nueva Vizcaya,104143,Talicabcab PS,0.23
+Region II,Nueva Vizcaya,104144,Talmoy PS,0.25
+Region II,Nueva Vizcaya,104176,Baguingey ES,0.17
+Region II,Nueva Vizcaya,104187,Abuyo ES,0.27
+Region II,Nueva Vizcaya,104193,Balintugon ES,0.31
+Region II,Nueva Vizcaya,104194,Bantinan Elementary School,0.16
+Region II,Nueva Vizcaya,104197,Cauco ES,0.18
+Region II,Nueva Vizcaya,104203,Lawed PS,0.14
+Region II,Nueva Vizcaya,104204,Lipuga ES,0.35
+Region II,Nueva Vizcaya,104206,Marikit East ES,0.34
+Region IV-A,Quezon,108993,Mainit Norte ES,0.31
+Region IV-A,Quezon,108995,PAMBUHAN ES,0.33
+Region IV-A,Lipa City,109679,Lodlod ES,0.03
+Region IV-B,Palawan,110754,Bohol Elementary School,0.35
+Region IV-B,Palawan,110767,Dumaran Central School,0.35
+Region V,Masbate City,113671,Nicolas Danao ES,0.14
+Region V,Sorsogon,114001,Bical ES,0.24
+Region V,Sorsogon,114008,Calpi Elementary School,0.24
+Region V,Sorsogon,114010,Daganas ES,0.31
+Region V,Sorsogon,114012,Dolos ES,0.23
+Region V,Sorsogon,114016,Jamorawon ES,0.21
+Region V,Sorsogon,114018,M. A. Roxas ES,0.22
+Region V,Sorsogon,114020,Monte Calvario E/S,0.22
+Region V,Sorsogon,114026,Sabang ES,0.25
+Region V,Sorsogon,114029,San Juan Daan ES,0.2
+Region V,Sorsogon,114032,Aguinaldo ES,0.25
+Region V,Sorsogon,114035,Bunga ES,0.24
+Region V,Sorsogon,114039,Gabod Elementary School,0.22
+Region V,Sorsogon,114041,J. Gerona ES,0.19
+Region V,Sorsogon,114042,Marinab ES,0.2
+Region V,Sorsogon,114044,Obrero Elementary School,0.23
+Region V,Sorsogon,114045,Osmena  E/S,0.26
+Region V,Sorsogon,114047,QUEZON ELEMENTARY SCHOOL,0.28
+Region V,Sorsogon,114048,Sagrada ES,0.33
+Region V,Sorsogon,114055,TAROMATA I,0.21
+Region V,Sorsogon,114056,Taromata II ES,0.23
+Region V,Sorsogon,114060,Capiricohan ES,0.19
+Region V,Sorsogon,114061,Cogon Elementary school,0.26
+Region V,Sorsogon,114063,Lalud ES,0.21
+Region V,Sorsogon,114066,Salvacion ES,0.25
+Region V,Sorsogon,114071,San Jose (Lower) PS,0.21
+Region V,Sorsogon,114080,Burgos ES,0.17
+Region V,Sorsogon,114081,Cagdagat ES,0.16
+Region V,Sorsogon,114087,Inlagadian Elementary School,0.17
+Region V,Sorsogon,114088,Mabini ES,0.18
+Region V,Sorsogon,114094,San Pascual ES,0.2
+Region V,Sorsogon,114095,Sta. Cruz ES,0.17
+Region V,Sorsogon,114099,Bagalayag ES,0.23
+Region V,Sorsogon,114100,Bagong Sirang ES,0.24
+Region V,Sorsogon,114103,Cogon ES,0.28
+Region V,Sorsogon,114105,Dulangan Elementary School,0.23
+Region V,Sorsogon,114107,Libtong Elementary School,0.22
+Region V,Sorsogon,114113,Saclayan ES,0.31
+Region V,Sorsogon,114116,Tomalaytay ES,0.25
+Region V,Sorsogon,114118,Buenavista ES,0.22
+Region V,Sorsogon,114120,Caburacan ES,0.16
+Region V,Sorsogon,114121,Canjela ES,0.16
+Region V,Sorsogon,114127,Maypangi Elementary School,0.2
+Region V,Sorsogon,114132,Salvacion ES,0.14
+Region V,Sorsogon,114133,San Roque ES,0.15
+Region V,Sorsogon,114136,Sto. Nino Elementary School,0.27
+Region V,Sorsogon,114137,Alin Elementary School,0.29
+Region V,Sorsogon,114139,Banuang-Gurang ES,0.29
+Region V,Sorsogon,114140,Baras Elementary School,0.31
+Region V,Sorsogon,114141,Bayawas ES,0.22
+Region V,Sorsogon,114142,Cristo Elementary School,0.28
+Region V,Sorsogon,114143,De Vera ES,0.34
+Region V,Sorsogon,114146,Gura Elementary School,0.25
+Region V,Sorsogon,114147,Mabini ES,0.33
+Region V,Sorsogon,114151,San Antonio ES,0.27
+Region V,Sorsogon,114152,San Isidro ES,0.28
+Region V,Sorsogon,114154,San Vicente ES,0.28
+Region V,Sorsogon,114155,Sevilla ES,0.3
+Region V,Sorsogon,114156,Tongdol ES,0.27
+Region V,Sorsogon,114158,Bandi ES,0.27
+Region V,Sorsogon,114159,Cabugao ES,0.35
+Region V,Sorsogon,114163,Girawan Elementary School,0.31
+Region V,Sorsogon,114164,Juan Adre ES,0.33
+Region V,Sorsogon,114167,Malinao ES,0.3
+Region V,Sorsogon,114169,Orange ES,0.36
+Region V,Sorsogon,114172,Pawala Elementary School,0.35
+Region V,Sorsogon,114173,Pinamanaan ES,0.36
+Region V,Sorsogon,114174,San Francisco ES,0.3
+Region V,Sorsogon,114175,San Jose ES,0.32
+Region V,Sorsogon,114176,San Rafael ES,0.3
+Region V,Sorsogon,114178,Suguian ES,0.35
+Region V,Sorsogon,114179,Sta. Cruz ES,0.34
+Region V,Sorsogon,114180,Tagbac ES,0.25
+Region V,Sorsogon,114181,Tinanogan ES,0.26
+Region V,Sorsogon,114182,Tuba ES,0.31
+Region V,Sorsogon,114183,Vinisitahan ES,0.23
+Region V,Sorsogon,114205,Bentuco ES,0.16
+Region V,Sorsogon,114208,Bulacao ES,0.15
+Region V,Sorsogon,114209,Cabigaan ES,0.16
+Region V,Sorsogon,114212,Manapao ES,0.13
+Region V,Sorsogon,114214,Nazareno ES,0.12
+Region V,Sorsogon,114216,Sangat ES,0.11
+Region V,Sorsogon,114218,Tabi ES,0.15
+Region V,Sorsogon,114219,Tigkiw ES,0.16
+Region V,Sorsogon,114220,Togawe ES,0.15
+Region V,Sorsogon,114221,Union ES,0.14
+Region V,Sorsogon,114227,Bulawan ES,0.14
+Region V,Sorsogon,114229,Casini ES,0.15
+Region V,Sorsogon,114230,Cawayan ES,0.3
+Region V,Sorsogon,114232,Gabao Elementary School,0.15
+Region V,Sorsogon,114245,Tinampo ES,0.13
+Region V,Sorsogon,114246,Tongdol ES,0.15
+Region V,Sorsogon,114260,Grefalda ES,0.19
+Region V,Sorsogon,114264,Maalo ES,0.2
+Region V,Sorsogon,114267,Sablayan ES,0.28
+Region V,Sorsogon,114270,R.P. TABUENA ELEMENTARYSCHOOL,0.16
+Region V,Sorsogon,114273,Anibong ES,0.2
+Region V,Sorsogon,114274,Behia Elementary School,0.23
+Region V,Sorsogon,114275,Biga ES,0.18
+Region V,Sorsogon,114276,Cagbolo ES,0.31
+Region V,Sorsogon,114277,Cagtalaba ES,0.27
+Region V,Sorsogon,114279,Hubo Elementary School,0.22
+Region V,Sorsogon,114284,Sta. Lourdes ES,0.25
+Region V,Sorsogon,114285,Tagas ES,0.18
+Region V,Sorsogon,114286,Iluminado Carranza Elem.School,0.2
+Region V,Sorsogon,114288,Biton ES,0.35
+Region V,Sorsogon,114289,Bulala Elementary School,0.26
+Region V,Sorsogon,114290,Busay ES,0.2
+Region V,Sorsogon,114293,Ginangra ES,0.22
+Region V,Sorsogon,114294,Lapinig ES,0.21
+Region V,Sorsogon,114295,Magsaysay ES,0.23
+Region V,Sorsogon,114296,Malbog Elementary School,0.25
+Region V,Sorsogon,114297,Pawik ES,0.24
+Region V,Sorsogon,114298,Salvacion ES,0.23
+Region V,Sorsogon,114300,Tula-Tula Sur Elementary School,0.27
+Region V,Sorsogon,114305,Bon-ot (Big) ES,0.22
+Region V,Sorsogon,114306,Bon-ot (Small) ES,0.28
+Region V,Sorsogon,114307,Cabagahan ES,0.28
+Region V,Sorsogon,114308,Calintaan ES,0.26
+Region V,Sorsogon,114311,Culasi ES,0.25
+Region V,Sorsogon,114313,Genablan Occidental Elementary School,0.26
+Region V,Sorsogon,114314,Genablan Or. ES,0.29
+Region V,Sorsogon,114319,Mambajog ES,0.33
+Region V,Sorsogon,114321,Manurabi ES,0.31
+Region V,Sorsogon,114323,Paghuliran ES,0.33
+Region V,Sorsogon,114324,Pange ES,0.26
+Region V,Sorsogon,114327,Sinang-Atan Elementary School,0.26
+Region V,Sorsogon,114332,Sua ES,0.32
+Region V,Sorsogon,114334,Tugas Elementary School,0.25
+Region V,Sorsogon,114335,Vicente Dorotan ES,0.25
+Region V,Sorsogon,114337,Bantayan ES,0.31
+Region V,Sorsogon,114340,Bulabog ES,0.2
+Region V,Sorsogon,114342,Calpi Elementary School,0.32
+Region V,Sorsogon,114343,Dapdap ES,0.26
+Region V,Sorsogon,114345,Ginablan ES,0.2
+Region V,Sorsogon,114346,Guiron ES,0.25
+Region V,Sorsogon,114347,Inapugan ES,0.32
+Region V,Sorsogon,114348,Lipason ES,0.24
+Region V,Sorsogon,114349,Lumbang ES,0.24
+Region V,Sorsogon,114350,Lungib ES,0.22
+Region V,Sorsogon,114353,Palanas ES,0.28
+Region V,Sorsogon,114354,Palaypay ES,0.27
+Region V,Sorsogon,114355,Pangpang ES,0.23
+Region V,Sorsogon,114357,Pineda ES,0.23
+Region V,Sorsogon,114358,Provenir ES,0.28
+Region V,Sorsogon,114359,San Antonio ES,0.28
+Region V,Sorsogon,114360,San Rafael ES,0.34
+Region V,Sorsogon,114361,Sta. Fe ES,0.23
+Region V,Sorsogon,114362,Tinago ES,0.24
+Region V,Sorsogon,114363,Tingco Elementary School,0.26
+Region V,Sorsogon,114368,Cagdongon ES,0.24
+Region V,Sorsogon,114376,Leona ES,0.23
+Region V,Sorsogon,114377,Lourdes ES,0.29
+Region V,Sorsogon,114380,Migabod ES,0.31
+Region V,Sorsogon,114381,Millabas ES,0.24
+Region V,Sorsogon,114384,Pinagsalog ES,0.21
+Region V,Sorsogon,114386,Pudo ES,0.17
+Region V,Sorsogon,114403,San Ramon ES,0.15
+Region V,Sorsogon,114405,Sto. Domingo ES,0.24
+Region V,Sorsogon,114408,Alig-igan ES,0.23
+Region V,Sorsogon,114410,MANANGKAS ELEMENTARY SCHOOL,0.27
+Region VI,Bacolod City,117448,Abkasa ES,0.06
+Region VI,Bacolod City,117449,Andres Bonifacio I ES,0.03
+Region VI,Bacolod City,117459,Corazon L. Montelibano ES,0.04
+Region VI,Bacolod City,117463,Apolinario Mabini Elementary School,0.03
+Region VI,Bacolod City,117476,Don Jose R. Torres ES,0.03
+Region VI,Bacolod City,117483,EDUCATION & TRAINING CENTER SCHOOL III,0.02
+Region VI,Bacolod City,117484,Estefania ES,0.05
+Region VI,Bacolod City,117489,Don R. A. Medel Sr. ES,0.03
+Region VI,Cadiz City,117529,Agudo ES,0.22
+Region VI,Cadiz City,117552,Igcamalig ES,0.26
+Region VII,Cebu,119822,Siotes Elementary School,0.3
+Region VII,Bais City,120077,Olympia Elementary School,0.15
+Region VII,Bais City,120084,Biso Es,0.33
+Region VII,Bais City,120088,Cambagahan ES,0.22
+Region VII,Bais City,120089,Cambaguio ES,0.18
+Region VII,Bais City,120092,Lonoy Elementary School,0.18
+Region VII,Bais City,120094,Lowason ES,0.18
+Region VII,Bais City,120095,Mabunao ES,0.19
+Region VII,Bais City,120096,Mangganay ES,0.19
+Region VII,Bais City,120097,Mansangaban ES,0.19
+Region VII,Bais City,120099,Palangging ES,0.19
+Region VII,Bais City,120100,Palaypay ES,0.25
+Region VII,Bais City,120101,Panalaan ES,0.34
+Region VII,Bais City,120102,Panam-angan Elementary School,0.18
+Region VII,Bais City,120103,Sab-ahan ES,0.26
+Region VII,Bais City,120104,San Vicente Elementary School,0.23
+Region VII,Bais City,120105,Tabuac ES,0.2
+Region VII,Bais City,120106,Tacalan ES,0.16
+Region IX,Zamboanga del Norte,124302,San Roque ES,0.32
+Region IX,Zamboanga del Norte,124692,Moyo ES,0.35
+Region IX,Zamboanga del Sur,124919,Depore ES,0.25
+Region IX,Zamboanga del Sur,124924,Kanipaan ES,0.29
+Region IX,Zamboanga del Sur,124943,Josefina ES,0.21
+Region IX,Zamboanga del Sur,124983,Sumilom Elementary School,0.3
+Region IX,Zamboanga del Sur,124991,Bag-ong Silao ES,0.19
+Region IX,Zamboanga del Sur,125186,Malubo ES,0.25
+Region IX,Zamboanga del Sur,125190,Pilas ES,0.2
+Region IX,Zamboanga del Sur,125379,Bag-ong Baroy ES,0.28
+Region X,Ozamis City,128176,Sangay Elementary School,0.09
+Region X,Ozamis City,128182,Guimad Elementary School,0.08
+Region X,Ozamis City,128183,Guingona Elementary School,0.08
+Region X,Ozamis City,128187,Antero U. Roa Central School,0.09
+Region X,Ozamis City,128188,"Pershing Tan Queto, Sr. Elementary School",0.13
+Region X,Ozamis City,128190,Balintawak Elementary School,0.08
+Region X,Ozamis City,128195,Gala Elementary School,0.07
+Region X,Ozamis City,128197,Juan A. Acapulco Elementary School,0.1
+Region XII,North Cotabato,130265,Dalumangkum PS,0.2
+Region XII,North Cotabato,130274,Panay ES,0.24
+Region XII,North Cotabato,130279,Rogonan ES,0.27
+Region XII,North Cotabato,130350,Calixta Daguman ES,0.27
+Region XII,Sarangani,130570,Baliton Elementary School,0.19
+Region XII,Sultan Kudarat,130910,Bagumbayan Central  Elementary School,0.16
+Region XII,Sultan Kudarat,131089,Kapingkong Central Elementary School,0.12
+Region XII,General Santos City,131292,Aspang Elementary School,0.2
+Region XII,General Santos City,131295,Blagan Elementary School,0.16
+Region XII,General Santos City,131308,Upper Labay Elementary School,0.14
+Region XII,General Santos City,131316,Paopao Elementary School,0.11
+Region XII,General Santos City,131318,Datal Salvan ES,0.2
+CARAGA,Agusan del Sur,131854,Manangahon ES,0.17
+CARAGA,Dinagat Island,132372,Tigbao Elementary School,0.2
+CAR,Apayao,135229,Ayayao ES,0.23
+CAR,Apayao,135235,Langnao Elementary School,0.35
+CAR,Apayao,135242,Namaltugan ES,0.27
+CAR,Apayao,135246,Sabangan ES,0.34
+CAR,Apayao,135250,Tanglagan ES,0.24
+CAR,Apayao,135253,Banban ES,0.35
+CAR,Apayao,135268,Dangguinan ES,0.35
+CAR,Apayao,135279,Sacpil ES,0.32
+CAR,Apayao,135296,Upper Atok ES,0.29
+CAR,Apayao,135298,Baliwanan ES,0.28
+CAR,Apayao,135348,Tumog Elementary School,0.06
+CAR,Ifugao,135755,Maguitawa E/S,0.23
+CAR,Ifugao,135756,Majlong PS,0.27
+CAR,Ifugao,135790,Camandag ES,0.33
+CAR,Ifugao,135792,Duli Elementary School,0.33
+CAR,Ifugao,135799,Namal ES,0.26
+CAR,Ifugao,135948,Huhlucan PS,0.23
+Region II,Nueva Vizcaya,156001,Tidang Village PS,0.11
+Region II,Nueva Vizcaya,156004,Tubongan PS,0.13
+Region II,Nueva Vizcaya,156011,Sabino PS,0.22
+Region II,Nueva Vizcaya,156012,Lihlit PS,0.18
+Region IV-B,Palawan,170516,Manggahan Elementary School,0.32
+Region V,Sorsogon,175003,Banuang-Daan Elementary School,0.27
+Region V,Sorsogon,175005,Bayawas ES,0.27
+Region V,Sorsogon,175009,Calayuan ES,0.23
+Region VII,Bohol,186515,Merryland PS,0.24
+Region IX,Zamboanga del Norte,195527,New Bethlehem ES,0.23
+Region IX,Zamboanga del Norte,195529,Basak ES,0.32
+Region IX,Zamboanga del Norte,195530,Sapa Ralum PS,0.24
+Region IX,Zamboanga del Norte,195531,Sulot Sumayong PS,0.36
+Region X,Bukidnon,199501,Gumada Elementary School,0.34
+Region X,Ozamis City,203504,Dalapang Elementary School,0.1
+Region X,Ozamis City,203505,Tipan Elementary School,0.09
+Region XII,North Cotabato,207572,Diosdado Almarines ES,0.24
+Region XII,North Cotabato,207573,Langka ES,0.28
+Region XII,General Santos City,210006,Bagong Silang ES,0.22
+Region XII,General Santos City,210009,Maligaya Elementary School,0.13
+Region XII,General Santos City,210010,Klolang Elementary School,0.19
+CAR,Apayao,219005,Sta. Elena ES,0.31
+Region V,Masbate City,231501,Gutusan Elementary School,0.18
+Region VII,Bais City,237501,Cambayungon ES,0.2
+Region XII,General Santos City,281534,Banwalan Primary School,0.17
+Region II,Nueva Vizcaya,281559,Hukhukyung Primary School,0.25
+Region II,Nueva Vizcaya,500024,NAPO-TUYAK  ELEMENTARY SCHOOL,0.33
+Region I,Dagupan City,500055,Pugaro IS,0.07
+Region II,Quirino,500106,Giayan IS,0.3
+Region VII,Bohol,500210,CATABAN INTEGRATED SCHOOL,0.33
+Region XII,Sarangani,500291,Bongo Integrated School,0.23
+Region V,Camarines Sur,500469,Toytoy Integrated School,0.36
+Region XII,South Cotabato,500633,Kesegmung Integrated School,0.28
+Region VII,Cebu,500664,Tulang Integrated School,0.33
+Region XI,Davao del Norte,500846,Rizal Integrated School,0.32
+Region XI,Davao del Norte,500851,Paiton Integrated School,0.3
+Region II,Nueva Vizcaya,500895,Binalian ES,0.19
+Region X,Misamis Oriental,501031,Abunda IS,0.35
+Region X,Misamis Oriental,501032,Artadi IS,0.35
+Region XI,Davao del Norte,501076,Kamansi Integrated School,0.18
+Region XI,Davao Occidental,501078,Bolo Bolo Integrated School,0.3
+Region XI,Mati City,501085,Cabuaya Integrated School,0.34
+Region VII,Bohol,501143,San Jose Integrated School,0.33
+Region X,Ozamis City,501205,Cruz Lanzado Saligan Integrated School,0.07
+Region X,Ozamis City,501206,Jacinto Nemeno Integrated School,0.08
+Region XII,Sarangani,501284,Kaltuad Integrated School,0.29
+CARAGA,Agusan del Sur,501285,Maasin Integrated School,0.3
+CARAGA,Agusan del Sur,501286,San Pedro Integrated School,0.15
+CARAGA,Agusan del Sur,501291,Bentahon Integrated School,0.31
+Region VII,Cebu,501352,Bugho Integrated School,0.27
+Region XI,Davao Oriental,501420,Spur 2 Integrated School,0.26
+Region XI,Davao Oriental,501421,San Isidro Integrated School,0.26
+Region VI,Iloilo,501480,Puente Bunglas Integrated School,0.27
+Region VI,Iloilo,501484,Embarcadero Integrated School,0.22
+Region V,Masbate,501524,Busing Integrated School,0.36
+Region V,Sorsogon,501532,San Rafael Integrated School,0.36
+Region V,Masbate,501535,Rizal Integrated School,0.35
+Region V,Masbate,501545,Madamba Integrated School,0.2
+Region X,Bukidnon,501567,Sil-Ipon Integrated School,0.24
+Region II,Isabela,501615,Sta. Cruz Integrated School,0.18
+Region XII,Sarangani,501651,Domnar-Lopez-Copada IP Integrated School,0.31
+Region X,Bukidnon,501653,Basac Integrated School,0.2
+Region X,Misamis Occidental,501654,Carmen Integrated School,0.34
+Region XII,Sultan Kudarat,501672,Legodon Integrated School,0.29
+Region V,Camarines Sur,300312,Calabnigan Green Meadows High School,0.3
+Region I,Dagupan City,300369,Carael National HS,0.08
+Region I,Dagupan City,300370,Salapingao National High School,0.07
+Region II,Nueva Vizcaya,300616,Casecnan National High School,0.29
+Region II,Nueva Vizcaya,300624,Bugkalot High School,0.23
+Region II,Nueva Vizcaya,300625,Carolotan High School,0.15
+Region II,Nueva Vizcaya,300629,Ganao National HS,0.19
+Region II,Nueva Vizcaya,300630,Kakiduguen NHS,0.22
+Region II,Nueva Vizcaya,300633,Martinez Cuyangan National High School,0.19
+Region II,Nueva Vizcaya,300639,Nansiakan NHS,0.21
+Region XI,Compostela Valley,300640,Camansi National High School,0.22
+Region IV-A,Quezon,301364,Paaralang Sek. Ng Lukban Integrated(formerly Paaralang Sekundarya ng Lucban),0.09
+Region IV-A,Quezon,301398,Sanmandelcar National High School,0.28
+Region IV-B,Occidental Mindoro,301605,Sta Teresa NHS,0.32
+Region IV-B,Oriental Mindoro,301621,Maujao NHS,0.29
+Region IV-B,Palawan,301691,Dumaran National High School,0.35
+Region IV-B,Palawan,301700,Ipilan National High School,0.33
+Region V,Camarines Sur,302011,Pambuhan National High School,0.33
+Region V,Sorsogon,302183,Bagatao NHS,0.21
+Region V,Sorsogon,302185,Bentuco NHS,0.29
+Region V,Sorsogon,302189,Bulacao NHS,0.12
+Region V,Sorsogon,302199,Buenavista NHS,0.27
+Region V,Sorsogon,302200,Culasi NHS,0.33
+Region V,Sorsogon,302205,Banuang Gurang NHS,0.26
+Region V,Sorsogon,302206,Donsol National Comprehensive HS - Sta. Cruz Extension HS,0.33
+Region V,Sorsogon,302217,Lungib National High School,0.24
+Region V,Sorsogon,302221,Cagbolo National Vocational HS,0.23
+Region V,Sorsogon,302229,Palanas NHS,0.17
+Region V,Sorsogon,302233,Quezon NHS,0.24
+Region V,Sorsogon,302244,Del Carmen Memorial HS,0.17
+Region V,Sorsogon,302246,Sua HS,0.32
+Region V,Sorsogon,302248,Tingco NHS,0.3
+Region VI,Negros Occidental,302601,Bulwangan National High School - Talacagay Ext.,0.33
+Region VI,Bacolod City,302701,Bacolod City NHS,0.04
+Region VII,Bohol,302896,Sikatuna Nat'l Agricultural HS,0.36
+Region VII,Cebu,302943,El Pardo NHS,0.25
+Region IX,Zamboanga del Norte,302958,Ubay NHS - Patawag Extension,0.28
+Region VII,Cebu,303028,Kinatarcan NHS,0.36
+Region VII,Cebu,303057,Montañeza NHS,0.34
+Region VII,Cebu,303089,San Sebastian NHS,0.34
+Region VII,Bais City,303214,Dodong Escaño Memorial High School,0.15
+Region VII,Bais City,303215,Lonoy National High School,0.18
+Region VII,Negros Oriental,303257,Owacan Provincial Comm. HS,0.33
+Region VII,Negros Oriental,303258,Pacuan National High School,0.32
+Region VII,Negros Oriental,303290,Bago National High School,0.34
+Region IX,Zamboanga del Norte,303673,Bacungan NHS - Palandok Annex,0.3
+Region IX,Zamboanga del Norte,303676,Balakan NHS,0.3
+Region IX,Zamboanga del Norte,303732,Gunyan NHS,0.36
+Region IX,Zamboanga del Sur,303785,Picanan NHS,0.25
+Region IX,Zamboanga Sibugay,303851,Olutanga NHS,0.35
+Region IX,Pagadian City,303903,Lison Valley NHS,0.19
+Region X,Bukidnon,303948,Bocboc NHS,0.2
+Region X,Ozamis City,304166,Montol National High School,0.07
+Region X,Ozamis City,304170,Gala National High School,0.08
+Region XI,Davao Oriental,304316,DR. BEATO C. MACAYRA NATIONAL HIGH SCHOOL,0.34
+Region XII,General Santos City,304641,Fatima National High School,0.22
+Region XII,General Santos City,304642,General Santos City National High School (Main),0.12
+Region XII,General Santos City,304644,Bawing National High School,0.12
+Region XII,General Santos City,304649,Datu B. Balunto National High School,0.13
+Region II,Nueva Vizcaya,304675,Pinayag National High School,0.17
+CARAGA,Agusan del Sur,304734,San Isidro NHS,0.33
+CARAGA,Dinagat Island,304854,Tubajon National High School,0.33
+CARAGA,Surigao del Sur,304862,Cabacungan National High School,0.34
+CARAGA,Surigao del Sur,304888,Gamut National School (Barobo),0.32
+CAR,Apayao,305122,Pio Dalim Memorial SAT Main,0.27
+CARAGA,Agusan del Sur,305478,Katipunan National High School,0.28
+Region II,Nueva Vizcaya,306207,Abuyo National High School,0.34
+Region II,Nueva Vizcaya,306208,Eastern Nueva Vizcaya National High School,0.17
+Region IV-A,Quezon,308003,Sto. Ni<f1>o National High School (Formerly Pagsangahan NHS Ext. Sto. Ni<f1>o),0.34
+Region IV-A,Quezon,308044,Huyon-Uyon National High School,0.34
+Region IV-B,Palawan,309107,Pancol National High School,0.32
+Region V,Masbate,309902,Allanaraiz-Marfil National High School,0.2
+Region V,Sorsogon,310001,Cadandanan NHS,0.2
+Region V,Sorsogon,310005,Bagong Sirang NHS,0.26
+Region V,Sorsogon,310006,Bantayan National  High School,0.27
+Region V,Sorsogon,310007,Biton High School,0.27
+Region V,Sorsogon,310008,San Rafael NHS,0.3
+Region V,Sorsogon,310009,San Antonio National High School,0.19
+Region V,Sorsogon,310010,Tiong Hen So MHS,0.24
+Region VII,Cebu,312426,Ca<f1>ang-Marcelo Luna NHS,0.35
+Region VII,Cebu,312461,Inghoy NHS,0.34
+Region VII,Negros Oriental,312924,Campanun-an Senior High School,0.36
+Region IX,Zamboanga del Norte,314123,Lipakan NHS,0.21
+Region IX,Zamboanga del Sur,314233,Daniel C. Mantos NHS,0.24
+Region IX,Zamboanga Sibugay,314301,Dalama NHS,0.35
+Region XII,South Cotabato,316919,Lake Soluton IS,0.21
+Region XII,General Santos City,317002,Pao-Pao High School,0.16
+CAR,Abra,318703,Alfredo D. Bersamina NHS,0.12
+CAR,Apayao,318813,Sacpil National High School,0.34
+Region VII,Bais City,323001,Cabugan National High School,0.18
+Region VII,Bais City,323007,Mansangaban National High School,0.16
+Region VII,Bais City,323011,Bais City Olympia National High School,0.15
+Region II,Isabela,500013,Colorado Integrated School,0.23
+Region I,Dagupan City,500055,Pugaro IS,0.07
+Region II,Quirino,500106,Giayan IS,0.34
+Region VII,Bohol,500210,CATABAN INTEGRATED SCHOOL,0.25
+Region XII,Sarangani,500291,Bongo Integrated School,0.23
+Region XII,Sarangani,500292,Lamlabong Integrated School,0.32
+Region V,Camarines Sur,500469,Toytoy Integrated School,0.36
+Region II,Nueva Vizcaya,500895,Binalian ES,0.2
+Region X,Misamis Oriental,501037,Malibato IS,0.33
+Region XI,Davao City,501061,Malamboon Integrated School,0.26
+Region X,Ozamis City,501205,Cruz Lanzado Saligan Integrated School,0.11
+Region X,Ozamis City,501206,Jacinto Nemeno Integrated School,0.08
+Region IX,Zamboanga del Norte,501210,Do<f1>a Natividad L. Macias Integrated School,0.33
+CARAGA,Agusan del Sur,501294,Anolingan Integrated School,0.29
+Region XI,Davao City,501403,Betan Integrated School,0.31
+Region V,Sorsogon,501532,San Rafael Integrated School,0.36
+Region V,Masbate,501545,Madamba Integrated School,0.35
+Region I,Dagupan City,300369,Carael National HS,0.06
+Region I,Dagupan City,300370,Salapingao National High School,0.07
+Region II,Nueva Vizcaya,300616,Casecnan National High School,0.31
+Region II,Nueva Vizcaya,300624,Bugkalot High School,0.23
+Region II,Nueva Vizcaya,300625,Carolotan High School,0.15
+Region II,Nueva Vizcaya,300629,Ganao National HS,0.15
+Region II,Nueva Vizcaya,300630,Kakiduguen NHS,0.24
+Region II,Nueva Vizcaya,300633,Martinez Cuyangan National High School,0.19
+Region II,Nueva Vizcaya,300639,Nansiakan NHS,0.25
+Region XI,Compostela Valley,300640,Camansi National High School,0.17
+Region IV-A,Quezon,301364,Paaralang Sek. Ng Lukban Integrated(formerly Paaralang Sekundarya ng Lucban),0.09
+Region IV-A,Quezon,301396,Panukulan NHS (Formerly San Juan NHS),0.36
+Region IV-A,Quezon,301398,Sanmandelcar National High School,0.28
+Region IV-B,Palawan,301691,Dumaran National High School,0.35
+Region IV-B,Palawan,301693,El Nido National High School,0.32
+Region IV-B,Palawan,301728,Quezon-Panitian National High School,0.31
+Region V,Camarines Sur,302069,Vito HS,0.33
+Region V,Sorsogon,302183,Bagatao NHS,0.21
+Region V,Sorsogon,302185,Bentuco NHS,0.18
+Region V,Sorsogon,302189,Bulacao NHS,0.12
+Region V,Sorsogon,302199,Buenavista NHS,0.27
+Region V,Sorsogon,302200,Culasi NHS,0.27
+Region V,Sorsogon,302205,Banuang Gurang NHS,0.26
+Region V,Sorsogon,302206,Donsol National Comprehensive HS - Sta. Cruz Extension HS,0.33
+Region V,Sorsogon,302217,Lungib National High School,0.28
+Region V,Sorsogon,302221,Cagbolo National Vocational HS,0.23
+Region V,Sorsogon,302229,Palanas NHS,0.17
+Region V,Sorsogon,302233,Quezon NHS,0.24
+Region V,Sorsogon,302246,Sua HS,0.32
+Region V,Sorsogon,302248,Tingco NHS,0.3
+Region VI,Bacolod City,302701,Bacolod City NHS,0.03
+Region VII,Bais City,303214,Dodong Escaño Memorial High School,0.19
+Region VII,Bais City,303215,Lonoy National High School,0.18
+Region X,Ozamis City,304166,Montol National High School,0.07
+Region XI,Davao Occidental,304269,B'Laan NHS,0.26
+Region XI,Davao Oriental,304304,Boston NHS,0.29
+Region XII,General Santos City,304641,Fatima National High School,0.11
+Region XII,General Santos City,304642,General Santos City National High School (Main),0.2
+Region XII,General Santos City,304644,Bawing National High School,0.15
+Region XII,General Santos City,304649,Datu B. Balunto National High School,0.17
+CARAGA,Agusan del Sur,304743,Padiay NHSHI,0.35
+CAR,Apayao,305122,Pio Dalim Memorial SAT Main,0.27
+CAR,Ifugao,305174,Natcak NHS,0.36
+Region II,Nueva Vizcaya,306208,Eastern Nueva Vizcaya National High School,0.21
+Region V,Camarines Sur,309703,Bitaogan National High School,0.35
+Region V,Masbate,309925,Damaso R. Rubia MHS,0.31
+Region V,Sorsogon,310005,Bagong Sirang NHS,0.26
+Region V,Sorsogon,310007,Biton High School,0.27
+Region V,Sorsogon,310008,San Rafael NHS,0.3
+Region V,Sorsogon,310009,San Antonio National High School,0.3
+Region V,Sorsogon,310010,Tiong Hen So MHS,0.24
+Region IX,Zamboanga del Norte,314115,SIANAN NATIONAL HIGH SCHOOL,0.27
+Region XII,General Santos City,317002,Pao-Pao High School,0.16
+Region VII,Bais City,323001,Cabugan National High School,0.18
+Region VII,Bais City,323007,Mansangaban National High School,0.16
+Region VII,Bais City,323011,Bais City Olympia National High School,0.15
+Region I,Dagupan City,500055,Pugaro IS,0.07
+Region XII,Sarangani,500292,Lamlabong Integrated School,0.32
+Region V,Catanduanes,500414,Palumbanes Integrated School,0.29
+Region V,Camarines Sur,500468,Harrison Integrated School,0.34
+Region VII,Cebu,500661,Cansaloay Integrated School,0.36
+Region XII,Sarangani,500714,Laginan Integrated School,0.32
+Region II,Nueva Vizcaya,500895,Binalian ES,0.29
+Region IX,Zamboanga del Norte,501210,Do<f1>a Natividad L. Macias Integrated School,0.31
